@@ -1,7 +1,7 @@
 {
   "name": "Log Workato User Details - Recipe Count",
   "description": "",
-  "version": 6,
+  "version": 7,
   "private": true,
   "concurrency": 1,
   "code": {
@@ -453,7 +453,7 @@
             "type": "object"
           }
         ],
-        "comment": "Test comment 1",
+        "comment": "Test comment 2",
         "uuid": "6c3a9703-c7f3-4848-8956-14437f7ec5cb",
         "wizardFinished": true
       },
